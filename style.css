@@ -36,3 +36,6 @@ label.form-check-label,
 label.form-label {
     color: white;
 }
+#submit-button {
+    width: 100%;
+}
